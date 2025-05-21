@@ -1,5 +1,8 @@
 # Awesome-Federated-LoRA
 
+## 📢 Updates
+We released a survey paper "[Federated Low-Rank Adaptation for Foundation Models: A Survey](https://arxiv.org/abs/2505.13502)".
+
 ## 📒 Table of Contents
 
 - [Awesome-Federated-LLM-Learning](#awesome-federated-lora)
@@ -72,3 +75,5 @@
 ### 3.3 Compression
 * CG-FedLLM: How to Compress Gradients in Federated Fune-tuning for Large Language Models. [[Paper]](https://arxiv.org/abs/2405.13746)
 * FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model. [[Paper]](https://arxiv.org/abs/2406.17706)
+
+
