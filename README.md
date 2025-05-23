@@ -76,4 +76,14 @@ We released a survey paper "[Federated Low-Rank Adaptation for Foundation Models
 * CG-FedLLM: How to Compress Gradients in Federated Fune-tuning for Large Language Models. [[Paper]](https://arxiv.org/abs/2405.13746)
 * FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model. [[Paper]](https://arxiv.org/abs/2406.17706)
 
+## ⭐ Citation
+If you find this work useful, welcome to cite us.
 
+```bib
+@article{yang2025federated,
+  title={Federated Low-Rank Adaptation for Foundation Models: A Survey},
+  author={Yang, Yiyuan and Long, Guodong and Lu, Qinghua and Zhu, Liming and Jiang, Jing and Zhang, Chengqi},
+  journal={arXiv preprint arXiv:2505.13502},
+  year={2025}
+}
+```
